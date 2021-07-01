@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/felipeblanco114/moments-project',
-    visit: 'https://google.com',
+    visit: 'https://www.youtube.com/watch?v=Zd1Bbn3hE84',
     id: 1,
   },
 ];
