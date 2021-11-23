@@ -34,4 +34,5 @@ export const TimeLineData = [
   { year: '2020/4', text: 'Full Stack Developer en Henry', },
   { year: '2020/5', text: 'Cursos de Diseño y Desarrollo Web como tutor en Coderhouse', },
   { year: '2021', text: 'Tutor/ Proyectos por mi cuenta', },
+  {year: '2021/9', text: 'Curso de ReactJS'},
 ];
